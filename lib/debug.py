@@ -5,7 +5,7 @@ import random
 from department import Department
 from employee import Employee
 from review import Review
-import ipdb
+from ipdb import set_trace as ipdb
 
 
 def reset_database():
